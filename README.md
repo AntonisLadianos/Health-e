@@ -1,4 +1,4 @@
-# app
+# Health-E app
 
 A new Flutter project.
 
