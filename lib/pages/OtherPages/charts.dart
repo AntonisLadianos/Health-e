@@ -120,7 +120,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
             SizedBox(height: 5),
             symptomsNavigation(),
             if (wsymtoms) ...{
-              weeklySympotmsChart()
+              weeklySymptomsChart()
             } else if (msymptoms) ...{
               monthlySymptomsChart()
             } else ...{
@@ -576,7 +576,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
     );
   }
 
-  Container weeklySympotmsChart() {
+  Container weeklySymptomsChart() {
     return Container(
       height: 350,
       margin: EdgeInsets.all(10),
@@ -610,7 +610,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
           labelStyle: TextStyle(color: Colors.black),
         ),
         title: ChartTitle(
-          text: 'Weekly Sympotms',
+          text: 'Weekly Symptoms',
           textStyle: TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.bold,
@@ -630,18 +630,6 @@ class _ChartsScreenState extends State<ChartsScreen> {
             color: Constants.symptomschart,
             borderRadius: BorderRadius.circular(15),
           ),
-          // ColumnSeries<WeeklySymptomsData, String>(
-          //   legendItemText: "Average Intensity",
-          //   dataSource: weeklySymptomsData,
-          //   xValueMapper: (WeeklySymptomsData data, _) =>
-          //       DateFormat('EEE dd\nMMM').format(data.monthStart),
-          //   yValueMapper: (WeeklySymptomsData data, _) =>
-          //       data.averageIntensity.toDouble(),
-          //   spacing: 0.3,
-          //   width: 0.8,
-          //   color: Constants.intensitychart,
-          //   borderRadius: BorderRadius.circular(15),
-          // ),
         ],
         trackballBehavior: TrackballBehavior(
           lineWidth: 0,
@@ -659,7 +647,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
       ),
     );
   }
-
+  
   Container monthlySymptomsChart() {
     return Container(
       height: 350,

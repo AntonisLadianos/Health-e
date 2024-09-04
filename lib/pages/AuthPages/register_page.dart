@@ -193,7 +193,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
     );
   }
 
-  //Comfirm pass
+  //Confirm pass
   TextFormField _registerComfPasswordInput() {
     return TextFormField(
       controller: comfPassController,
@@ -217,7 +217,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             _passwordVisible ? LineIcons.eyeSlash : LineIcons.eye,
           ),
         ),
-        hintText: "Comfirm Password",
+        hintText: "Confirm Password",
         hintStyle: TextStyle(
           color: Constants.primarycolor,
           fontWeight: FontWeight.bold,
