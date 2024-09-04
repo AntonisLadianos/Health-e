@@ -1,5 +1,41 @@
-# Health-E app
+# Health-e
 
-The Helth-e app allows patients to record the symptoms of chronic disease or pain they experience on a daily basis.
-The user of the app, has the ability to record symptoms and pain levels, as well as track this data in an easy way to use graph format. Finally, it includes a bounty questionnaire, which the user completes whenever they wish, which assesses the severity of pain and symptoms and informs them how much their daily life is affected. All of the above helps to provide both the patient and their doctor with easy and quick information for a brief medical history.
+## Overview
 
+Health-e is a mobile app designed to help patients with chronic diseases or pain track their symptoms and pain levels daily. The app features an easy-to-use interface for logging symptoms, visualizing data through graphs, and completing a pain severity questionnaire. This information can be crucial for both patients and doctors to quickly assess a patient’s medical history.
+
+## Features
+
+- **Symptom Logging**: Record daily symptoms and pain levels.
+- **Data Visualization**: View your data in an easy-to-understand graph format.
+- **Pain Severity Questionnaire**: Assess how much your symptoms affect daily life.
+
+  ## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AntonisLadianos/Health-e.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd Health-e
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   
+4. Run the app:
+   ```bash
+   flutter run
+
+## Technologies Used
+- **Flutter**: For building the mobile app.
+- **Dart**: Primary programming language.
+- **C++/CMake**: For native code integration. 
+- **Swift**: For iOS-specific implementations.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
