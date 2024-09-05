@@ -38,4 +38,4 @@ Health-e is a mobile app designed to help patients with chronic diseases or pain
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE]([https://github.com/AntonisLadianos/Health-e/blob/main/MIT%20License.txt](https://github.com/AntonisLadianos/Health-e/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AntonisLadianos/Health-e/blob/main/LICENSE) file for details.
