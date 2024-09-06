@@ -166,7 +166,7 @@ class _ForgotScreenState extends State<ForgotScreen> {
 
   Text _forgotText() {
     return Text(
-      "We Will Send Your Password To This Email Account",
+      "Your password will be sent to your email address",
       style: TextStyle(
         fontSize: 16,
         color: Colors.white,

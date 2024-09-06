@@ -433,7 +433,7 @@ class _HomePageState extends State<HomePage> {
                         minimumSize: Size.fromHeight(40),
                       ),
                       child: Text(
-                        'Gets Started',
+                        'Get Started',
                         style: TextStyle(
                           fontSize: 12,
                           color: Constants.primarycolor,
