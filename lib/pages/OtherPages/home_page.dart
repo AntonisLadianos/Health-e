@@ -268,7 +268,7 @@ class _HomePageState extends State<HomePage> {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               Text(
-                "Pain Impact Questionnaire",
+                "Brief Pain Inventory",
                 style: TextStyle(
                   fontSize: 14,
                   color: Colors.white,
