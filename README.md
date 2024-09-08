@@ -14,7 +14,7 @@ Health-e is a mobile app designed to help patients with chronic diseases or pain
 - Secure login and registration
 - Customizable notifications for tracking symptoms and reminders
 - Detailed history for monitoring chronic conditions
-
+  
   ## Installation 🛠️
 
 1. Clone the repository:
