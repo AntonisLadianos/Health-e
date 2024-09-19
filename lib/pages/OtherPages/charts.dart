@@ -371,6 +371,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
               ),
               series: [
                 ColumnSeries<YearlyPainData, String>(
+                  name: "Avg Pain",
                   legendItemText: "Average Pain Intensity",
                   dataSource: yearlyPaindata,
                   xValueMapper: (YearlyPainData data, _) => data.month,
@@ -456,6 +457,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
         ),
         series: [
           ColumnSeries<MonthlyPainAverageData, String>(
+            name: "Avg Pain",
             legendItemText: "Average Pain Intensity",
             width: 0.3,
             dataSource: monthlyPainAverageData,
@@ -534,6 +536,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
         ),
         series: [
           ColumnSeries<WeeklyPainData, String>(
+            name: "Avg Pain",
             legendItemText: "Average Pain Intensity",
             width: 0.5,
             dataSource: weeklyPainData,
@@ -620,6 +623,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
         legend: Legend(isVisible: true, position: LegendPosition.bottom),
         series: [
           ColumnSeries<WeeklySymptomsData, String>(
+            name: "Symptoms",
             legendItemText: "Symptoms",
             dataSource: weeklySymptomsData,
             xValueMapper: (WeeklySymptomsData data, _) =>
@@ -647,7 +651,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
       ),
     );
   }
-  
+
   Container monthlySymptomsChart() {
     return Container(
       height: 350,
@@ -684,6 +688,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
               legend: Legend(isVisible: true, position: LegendPosition.bottom),
               series: [
                 ColumnSeries<MonthlySymptomsData, String>(
+                  name: "Symptoms",
                   enableTooltip: true,
                   legendItemText: "Symptoms",
                   dataSource: monthlySymptomsData,
@@ -695,6 +700,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
                   borderRadius: BorderRadius.circular(15),
                 ),
                 ColumnSeries<MonthlySymptomsData, String>(
+                  name: "Avg Intensity",
                   enableTooltip: true,
                   legendItemText: "Average Intensity",
                   dataSource: monthlySymptomsData,
@@ -773,6 +779,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
               ),
               series: [
                 ColumnSeries<YearlySymptomsData, String>(
+                  name: "Symptoms",
                   legendItemText: "Symptoms",
                   dataSource: yearlySymptomsData,
                   xValueMapper: (YearlySymptomsData data, _) => data.monthLabel,
@@ -782,6 +789,7 @@ class _ChartsScreenState extends State<ChartsScreen> {
                   borderRadius: BorderRadius.circular(15),
                 ),
                 ColumnSeries<YearlySymptomsData, String>(
+                  name: "Avg Intensity",
                   legendItemText: "Average Intensity",
                   dataSource: yearlySymptomsData,
                   xValueMapper: (YearlySymptomsData data, _) => data.monthLabel,
