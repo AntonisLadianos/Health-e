@@ -1,4 +1,7 @@
-# Health-e 📱
+# Health-e 📱 ![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0-blue)
+
+
+
 
 ## Overview 📝
 
@@ -6,10 +9,12 @@ Health-e is a mobile app designed to help patients with chronic diseases or pain
 
 ## Features 🚀
 
-- **Symptom Logging**: Record daily symptoms and pain levels.
-- **Data Visualization**: View your data in an easy-to-understand graph format.
-- **Pain Severity Questionnaire**: Assess how much your symptoms affect daily life.
-
+- User-friendly interface for tracking symptoms
+- Calendar view for easy navigation of logged entries
+- Secure login and registration
+- Customizable notifications for tracking symptoms and reminders
+- Detailed history for monitoring chronic conditions
+  
   ## Installation 🛠️
 
 1. Clone the repository:
