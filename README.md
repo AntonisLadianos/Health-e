@@ -12,7 +12,6 @@ Health-e is a mobile app designed to help patients with chronic diseases or pain
 - User-friendly interface for tracking symptoms
 - Calendar view for easy navigation of logged entries
 - Secure login and registration
-- Customizable notifications for tracking symptoms and reminders
 - Detailed history for monitoring chronic conditions
   
   ## Installation 🛠️
@@ -36,8 +35,7 @@ Health-e is a mobile app designed to help patients with chronic diseases or pain
 ## Technologies Used 🧰
 - **Flutter**: For building the mobile app.
 - **Dart**: Primary programming language.
-- **C++/CMake**: For native code integration. 
-- **Swift**: For iOS-specific implementations.
+- **SQLite**: Fot local database.
 
 ## Contributing 🤝
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
