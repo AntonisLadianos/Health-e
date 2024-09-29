@@ -35,7 +35,7 @@ Health-e is a mobile app designed to help patients with chronic diseases or pain
 ## Technologies Used 🧰
 - **Flutter**: For building the mobile app.
 - **Dart**: Primary programming language.
-- **SQLite**: Fot local database.
+- **SQLite**: For local database.
 
 ## Contributing 🤝
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
