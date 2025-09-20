@@ -5,18 +5,32 @@ packages:
     dependency: transitive
     description:
       name: _fe_analyzer_shared
+<<<<<<< HEAD
       sha256: "0b2f2bd91ba804e53a61d757b986f89f1f9eaed5b11e4b2f5a2468d86d6c9fc7"
       url: "https://pub.dev"
     source: hosted
     version: "67.0.0"
+=======
+      sha256: f0bb5d1648339c8308cc0b9838d8456b3cfe5c91f9dc1a735b4d003269e5da9a
+      url: "https://pub.dev"
+    source: hosted
+    version: "88.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   analyzer:
     dependency: transitive
     description:
       name: analyzer
+<<<<<<< HEAD
       sha256: "37577842a27e4338429a1cbc32679d508836510b056f1eedf0c8d20e39c1383d"
       url: "https://pub.dev"
     source: hosted
     version: "6.4.1"
+=======
+      sha256: "0b7b9c329d2879f8f05d6c05b32ee9ec025f39b077864bdb5ac9a7b63418a98f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "8.1.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   animated_splash_screen:
     dependency: "direct main"
     description:
@@ -29,10 +43,17 @@ packages:
     dependency: transitive
     description:
       name: another_flushbar
+<<<<<<< HEAD
       sha256: "19bf9520230ec40b300aaf9dd2a8fefcb277b25ecd1c4838f530566965befc2a"
       url: "https://pub.dev"
     source: hosted
     version: "1.12.30"
+=======
+      sha256: "2b99671c010a7d5770acf5cb24c9f508b919c3a7948b6af9646e773e7da7b757"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.12.32"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   another_transformer_page_view:
     dependency: transitive
     description:
@@ -45,70 +66,127 @@ packages:
     dependency: transitive
     description:
       name: archive
+<<<<<<< HEAD
       sha256: ecf4273855368121b1caed0d10d4513c7241dfc813f7d3c8933b36622ae9b265
       url: "https://pub.dev"
     source: hosted
     version: "3.5.1"
+=======
+      sha256: "2fde1607386ab523f7a36bb3e7edb43bd58e6edaf2ffb29d8a6d578b297fdbbd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.7"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   args:
     dependency: transitive
     description:
       name: args
+<<<<<<< HEAD
       sha256: "7cf60b9f0cc88203c5a190b4cd62a99feea42759a7fa695010eb5de1c0b2252a"
       url: "https://pub.dev"
     source: hosted
     version: "2.5.0"
+=======
+      sha256: d0481093c50b1da8910eb0bb301626d4d8eb7284aa739614d2b394ee09e3ea04
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.7.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   async:
     dependency: transitive
     description:
       name: async
+<<<<<<< HEAD
       sha256: "947bfcf187f74dbc5e146c9eb9c0f10c9f8b30743e341481c1e2ed3ecc18c20c"
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+=======
+      sha256: "758e6d74e971c3e5aceb4110bfd6698efc7f501675bcfe0c775459a8140750eb"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.13.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   audio_session:
     dependency: transitive
     description:
       name: audio_session
+<<<<<<< HEAD
       sha256: a49af9981eec5d7cd73b37bacb6ee73f8143a6a9f9bd5b6021e6c346b9b6cf4e
       url: "https://pub.dev"
     source: hosted
     version: "0.1.19"
+=======
+      sha256: "8f96a7fecbb718cb093070f868b4cdcb8a9b1053dce342ff8ab2fde10eb9afb7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   body_part_selector:
     dependency: "direct main"
     description:
       name: body_part_selector
+<<<<<<< HEAD
       sha256: "96e2e1d7a2b6b529a3fdaa8bb063ff7efa553fd7c52fce07c25ef1547b81b6d3"
       url: "https://pub.dev"
     source: hosted
     version: "0.0.3"
+=======
+      sha256: "9fdac97959cd710352a2781458e8824ba8752988f730493b06a53fff12fb078c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   boolean_selector:
     dependency: transitive
     description:
       name: boolean_selector
+<<<<<<< HEAD
       sha256: "6cfb5af12253eaf2b368f07bacc5a80d1301a071c73360d746b7f2e32d762c66"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+=======
+      sha256: "8aab1771e1243a5063b8b0ff68042d67334e3feab9e95b9490f9a6ebf73b42ea"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   build:
     dependency: transitive
     description:
       name: build
+<<<<<<< HEAD
       sha256: "80184af8b6cb3e5c1c4ec6d8544d27711700bc3e6d2efad04238c7b5290889f0"
       url: "https://pub.dev"
     source: hosted
     version: "2.4.1"
+=======
+      sha256: "5b887c55a0f734b433b3b2d89f9cd1f99eb636b17e268a5b4259258bc916504b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   build_config:
     dependency: transitive
     description:
       name: build_config
+<<<<<<< HEAD
       sha256: bf80fcfb46a29945b423bd9aad884590fb1dc69b330a4d4700cac476af1708d1
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+=======
+      sha256: "4f64382b97504dc2fcdf487d5aae33418e08b4703fc21249e4db6d804a4d0187"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   build_daemon:
     dependency: transitive
     description:
       name: build_daemon
+<<<<<<< HEAD
       sha256: "79b2aef6ac2ed00046867ed354c88778c9c0f029df8a20fe10b5436826721ef9"
       url: "https://pub.dev"
     source: hosted
@@ -121,10 +199,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.2"
+=======
+      sha256: "8e928697a82be082206edb0b9c99c5a4ad6bc31c9e9b8b2f291ae65cd4a25daa"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   build_runner:
     dependency: transitive
     description:
       name: build_runner
+<<<<<<< HEAD
       sha256: "1414d6d733a85d8ad2f1dfcb3ea7945759e35a123cb99ccfac75d0758f75edfa"
       url: "https://pub.dev"
     source: hosted
@@ -137,6 +222,12 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "7.3.0"
+=======
+      sha256: "804c47c936df75e1911c19a4fb8c46fa8ff2b3099b9f2b2aa4726af3774f734b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.8.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   built_collection:
     dependency: transitive
     description:
@@ -149,106 +240,197 @@ packages:
     dependency: transitive
     description:
       name: built_value
+<<<<<<< HEAD
       sha256: c7913a9737ee4007efedaffc968c049fd0f3d0e49109e778edc10de9426005cb
       url: "https://pub.dev"
     source: hosted
     version: "8.9.2"
+=======
+      sha256: a30f0a0e38671e89a492c44d005b5545b830a961575bbd8336d42869ff71066d
+      url: "https://pub.dev"
+    source: hosted
+    version: "8.12.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   characters:
     dependency: transitive
     description:
       name: characters
+<<<<<<< HEAD
       sha256: "04a925763edad70e8443c99234dc3328f442e811f1d8fd1a72f1c8ad0f69a605"
       url: "https://pub.dev"
     source: hosted
     version: "1.3.0"
+=======
+      sha256: f71061c654a3380576a52b451dd5532377954cf9dbd272a78fc8479606670803
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   charcode:
     dependency: transitive
     description:
       name: charcode
+<<<<<<< HEAD
       sha256: fb98c0f6d12c920a02ee2d998da788bca066ca5f148492b7085ee23372b12306
       url: "https://pub.dev"
     source: hosted
     version: "1.3.1"
+=======
+      sha256: fb0f1107cac15a5ea6ef0a6ef71a807b9e4267c713bb93e00e92d737cc8dbd8a
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   checked_yaml:
     dependency: transitive
     description:
       name: checked_yaml
+<<<<<<< HEAD
       sha256: feb6bed21949061731a7a75fc5d2aa727cf160b91af9a3e464c5e3a32e28b5ff
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
+=======
+      sha256: "959525d3162f249993882720d52b7e0c833978df229be20702b33d48d91de70f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   chewie:
     dependency: transitive
     description:
       name: chewie
+<<<<<<< HEAD
       sha256: e53da939709efb9aad0f3d72a69a8d05f889168b7a138af60ce78bab5c94b135
       url: "https://pub.dev"
     source: hosted
     version: "1.8.1"
+=======
+      sha256: "44bcfc5f0dfd1de290c87c9d86a61308b3282a70b63435d5557cfd60f54a69ca"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.13.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   cli_util:
     dependency: transitive
     description:
       name: cli_util
+<<<<<<< HEAD
       sha256: c05b7406fdabc7a49a3929d4af76bcaccbbffcbcdcf185b082e1ae07da323d19
       url: "https://pub.dev"
     source: hosted
     version: "0.4.1"
+=======
+      sha256: ff6785f7e9e3c38ac98b2fb035701789de90154024a75b6cb926445e83197d1c
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   clock:
     dependency: transitive
     description:
       name: clock
+<<<<<<< HEAD
       sha256: cb6d7f03e1de671e34607e909a7213e31d7752be4fb66a86d29fe1eb14bfb5cf
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+=======
+      sha256: fddb70d9b5277016c77a80201021d40a2247104d9f4aa7bab7157b7e3f05b84b
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   code_builder:
     dependency: transitive
     description:
       name: code_builder
+<<<<<<< HEAD
       sha256: f692079e25e7869c14132d39f223f8eec9830eb76131925143b2129c4bb01b37
       url: "https://pub.dev"
     source: hosted
     version: "4.10.0"
+=======
+      sha256: "11654819532ba94c34de52ff5feb52bd81cba1de00ef2ed622fd50295f9d4243"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.11.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   collection:
     dependency: transitive
     description:
       name: collection
+<<<<<<< HEAD
       sha256: ee67cb0715911d28db6bf4af1026078bd6f0128b07a5f66fb2ed94ec6783c09a
       url: "https://pub.dev"
     source: hosted
     version: "1.18.0"
+=======
+      sha256: "2f5709ae4d3d59dd8f7cd309b4e023046b57d8a6c82130785d2b0e5868084e76"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.19.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   convert:
     dependency: transitive
     description:
       name: convert
+<<<<<<< HEAD
       sha256: "0f08b14755d163f6e2134cb58222dd25ea2a2ee8a195e53983d57c075324d592"
       url: "https://pub.dev"
     source: hosted
     version: "3.1.1"
+=======
+      sha256: b30acd5944035672bc15c6b7a8b47d773e41e2f17de064350988c5d02adb1c68
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   cross_file:
     dependency: transitive
     description:
       name: cross_file
+<<<<<<< HEAD
       sha256: "55d7b444feb71301ef6b8838dbc1ae02e63dd48c8773f3810ff53bb1e2945b32"
       url: "https://pub.dev"
     source: hosted
     version: "0.3.4+1"
+=======
+      sha256: "7caf6a750a0c04effbb52a676dce9a4a592e10ad35c34d6d2d0e4811160d5670"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.4+2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   crypto:
     dependency: transitive
     description:
       name: crypto
+<<<<<<< HEAD
       sha256: ff625774173754681d66daaf4a448684fb04b78f902da9cb3d308c19cc5e8bab
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
+=======
+      sha256: "1e445881f28f22d6140f181e07737b22f1e099a5e1ff94b0af2f9e4a463f4855"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.6"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   csslib:
     dependency: transitive
     description:
       name: csslib
+<<<<<<< HEAD
       sha256: "706b5707578e0c1b4b7550f64078f0a0f19dec3f50a178ffae7006b0a9ca58fb"
       url: "https://pub.dev"
     source: hosted
     version: "1.0.0"
+=======
+      sha256: "09bad715f418841f976c77db72d5398dc1253c21fb9c0c7f0b0b985860b2d58e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -261,18 +443,32 @@ packages:
     dependency: transitive
     description:
       name: dart_style
+<<<<<<< HEAD
       sha256: "99e066ce75c89d6b29903d788a7bb9369cf754f7b24bf70bf4b6d6d6b26853b9"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.6"
+=======
+      sha256: c87dfe3d56f183ffe9106a18aebc6db431fc7c98c31a54b952a77f3d54a85697
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   dbus:
     dependency: transitive
     description:
       name: dbus
+<<<<<<< HEAD
       sha256: "365c771ac3b0e58845f39ec6deebc76e3276aa9922b0cc60840712094d9047ac"
       url: "https://pub.dev"
     source: hosted
     version: "0.7.10"
+=======
+      sha256: "79e0c23480ff85dc68de79e2cd6334add97e48f7f4865d17686dd6ea81a47e8c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.11"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   diffutil_dart:
     dependency: transitive
     description:
@@ -301,18 +497,32 @@ packages:
     dependency: transitive
     description:
       name: equatable
+<<<<<<< HEAD
       sha256: c2b87cb7756efdf69892005af546c56c0b5037f54d2a88269b4f347a505e3ca2
       url: "https://pub.dev"
     source: hosted
     version: "2.0.5"
+=======
+      sha256: "567c64b3cb4cf82397aac55f4f0cbd3ca20d77c6c03bedbc4ceaddc08904aef7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.7"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   fake_async:
     dependency: transitive
     description:
       name: fake_async
+<<<<<<< HEAD
       sha256: "511392330127add0b769b75a987850d136345d9227c6b94c96a04cf4a391bf78"
       url: "https://pub.dev"
     source: hosted
     version: "1.3.1"
+=======
+      sha256: "5368f224a74523e8d2e7399ea1638b37aecfca824a3cc4dfdf77bf1fa905ac44"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   feather_icons:
     dependency: "direct main"
     description:
@@ -321,38 +531,77 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+<<<<<<< HEAD
+=======
+  features:
+    dependency: "direct main"
+    description:
+      name: features
+      sha256: "25fd048d85af4498830500d6972f6c2b3f7e3e737ff78e8cc4489503eeff947c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0-nullsafety"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   ffi:
     dependency: transitive
     description:
       name: ffi
+<<<<<<< HEAD
       sha256: "493f37e7df1804778ff3a53bd691d8692ddf69702cf4c1c1096a2e41b4779e21"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
+=======
+      sha256: "289279317b4b16eb2bb7e271abccd4bf84ec9bdcbe999e278a94b804f5630418"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   file:
     dependency: transitive
     description:
       name: file
+<<<<<<< HEAD
       sha256: "5fc22d7c25582e38ad9a8515372cd9a93834027aacf1801cf01164dac0ffa08c"
       url: "https://pub.dev"
     source: hosted
     version: "7.0.0"
+=======
+      sha256: a3b4f84adafef897088c160faf7dfffb7696046cb13ae90b508c2cbc95d3b8d4
+      url: "https://pub.dev"
+    source: hosted
+    version: "7.0.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   file_selector_linux:
     dependency: transitive
     description:
       name: file_selector_linux
+<<<<<<< HEAD
       sha256: "045d372bf19b02aeb69cacf8b4009555fb5f6f0b7ad8016e5f46dd1387ddd492"
       url: "https://pub.dev"
     source: hosted
     version: "0.9.2+1"
+=======
+      sha256: "54cbbd957e1156d29548c7d9b9ec0c0ebb6de0a90452198683a7d23aed617a33"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.9.3+2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   file_selector_macos:
     dependency: transitive
     description:
       name: file_selector_macos
+<<<<<<< HEAD
       sha256: f42eacb83b318e183b1ae24eead1373ab1334084404c8c16e0354f9a3e55d385
       url: "https://pub.dev"
     source: hosted
     version: "0.9.4"
+=======
+      sha256: "19124ff4a3d8864fdc62072b6a2ef6c222d55a3404fe14893a3c02744907b60c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.9.4+4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   file_selector_platform_interface:
     dependency: transitive
     description:
@@ -365,18 +614,32 @@ packages:
     dependency: transitive
     description:
       name: file_selector_windows
+<<<<<<< HEAD
       sha256: d3547240c20cabf205c7c7f01a50ecdbc413755814d6677f3cb366f04abcead0
       url: "https://pub.dev"
     source: hosted
     version: "0.9.3+1"
+=======
+      sha256: "320fcfb6f33caa90f0b58380489fc5ac05d99ee94b61aa96ec2bff0ba81d3c2b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.9.3+4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   fixnum:
     dependency: transitive
     description:
       name: fixnum
+<<<<<<< HEAD
       sha256: "25517a4deb0c03aa0f32fd12db525856438902d9c16536311e76cdc57b31d7d1"
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
+=======
+      sha256: b6dc7065e46c974bc7c5f143080a6764ec7a4be6da1285ececdc37be96de53be
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter:
     dependency: "direct main"
     description: flutter
@@ -394,18 +657,32 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_launcher_icons
+<<<<<<< HEAD
       sha256: "526faf84284b86a4cb36d20a5e45147747b7563d921373d4ee0559c54fcdbcea"
       url: "https://pub.dev"
     source: hosted
     version: "0.13.1"
+=======
+      sha256: "10f13781741a2e3972126fae08393d3c4e01fa4cd7473326b94b72cf594195e7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.14.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_lints:
     dependency: "direct dev"
     description:
       name: flutter_lints
+<<<<<<< HEAD
       sha256: "3f41d009ba7172d5ff9be5f6e6e6abb4300e263aab8866d2a0842ed2a70f8f0c"
       url: "https://pub.dev"
     source: hosted
     version: "4.0.0"
+=======
+      sha256: "3105dc8492f6183fb076ccf1f351ac3d60564bff92e20bfc4af9cc1651f4e7e1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_localizations:
     dependency: "direct main"
     description: flutter
@@ -415,50 +692,92 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_login
+<<<<<<< HEAD
       sha256: "1f7c46d0d76081cf4c5180e3a265b1f5b1d7e48c81859f58f03a8dcd27338b85"
       url: "https://pub.dev"
     source: hosted
     version: "5.0.0"
+=======
+      sha256: "73ab879fa40cc04778cf4b6342b43586818c7e7a90df23c59a4a1d4a1dd36091"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.1.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_markdown:
     dependency: transitive
     description:
       name: flutter_markdown
+<<<<<<< HEAD
       sha256: "04c4722cc36ec5af38acc38ece70d22d3c2123c61305d555750a091517bbe504"
       url: "https://pub.dev"
     source: hosted
     version: "0.6.23"
+=======
+      sha256: "08fb8315236099ff8e90cb87bb2b935e0a724a3af1623000a9cec930468e0f27"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.7+1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
       name: flutter_plugin_android_lifecycle
+<<<<<<< HEAD
       sha256: "8cf40eebf5dec866a6d1956ad7b4f7016e6c0cc69847ab946833b7d43743809f"
       url: "https://pub.dev"
     source: hosted
     version: "2.0.19"
+=======
+      sha256: b0694b7fb1689b0e6cc193b3f1fcac6423c4f93c74fb20b806c6b6f196db0c31
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.30"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_secure_storage:
     dependency: "direct dev"
     description:
       name: flutter_secure_storage
+<<<<<<< HEAD
       sha256: a45be8a230f1f442d29a7adedcac46a21130052a1e1b84d2981e4f31b13daa1f
       url: "https://pub.dev"
     source: hosted
     version: "9.2.0"
+=======
+      sha256: "9cad52d75ebc511adfae3d447d5d13da15a55a92c9410e50f67335b6d21d16ea"
+      url: "https://pub.dev"
+    source: hosted
+    version: "9.2.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_secure_storage_linux:
     dependency: transitive
     description:
       name: flutter_secure_storage_linux
+<<<<<<< HEAD
       sha256: "4d91bfc23047422cbcd73ac684bc169859ee766482517c22172c86596bf1464b"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
+=======
+      sha256: be76c1d24a97d0b98f8b54bce6b481a380a6590df992d0098f868ad54dc8f688
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_secure_storage_macos:
     dependency: transitive
     description:
       name: flutter_secure_storage_macos
+<<<<<<< HEAD
       sha256: "8cfa53010a294ff095d7be8fa5bb15f2252c50018d69c5104851303f3ff92510"
       url: "https://pub.dev"
     source: hosted
     version: "3.1.0"
+=======
+      sha256: "6c0a2795a2d1de26ae202a0d78527d163f4acbb11cde4c75c670f3a0fc064247"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_secure_storage_platform_interface:
     dependency: transitive
     description:
@@ -487,18 +806,32 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_spinkit
+<<<<<<< HEAD
       sha256: d2696eed13732831414595b98863260e33e8882fc069ee80ec35d4ac9ddb0472
       url: "https://pub.dev"
     source: hosted
     version: "5.2.1"
+=======
+      sha256: "77850df57c00dc218bfe96071d576a8babec24cf58b2ed121c83cca4a2fdce7f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_survey:
     dependency: "direct main"
     description:
       name: flutter_survey
+<<<<<<< HEAD
       sha256: "5d71f4a7d9cccc53b06181f787d62bef24148f4b362a16e69c93271d10661c17"
       url: "https://pub.dev"
     source: hosted
     version: "0.1.4"
+=======
+      sha256: "85f11151e9c877c0a039b4c26c57b13d6cb6dbbb53bfec1c6d5dfd596ddc3964"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   flutter_svg:
     dependency: transitive
     description:
@@ -521,26 +854,47 @@ packages:
     dependency: "direct main"
     description:
       name: fluttertoast
+<<<<<<< HEAD
       sha256: "81b68579e23fcbcada2db3d50302813d2371664afe6165bc78148050ab94bf66"
       url: "https://pub.dev"
     source: hosted
     version: "8.2.5"
+=======
+      sha256: "25e51620424d92d3db3832464774a6143b5053f15e382d8ffbfd40b6e795dcf1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "8.2.12"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   font_awesome_flutter:
     dependency: transitive
     description:
       name: font_awesome_flutter
+<<<<<<< HEAD
       sha256: "275ff26905134bcb59417cf60ad979136f1f8257f2f449914b2c3e05bbb4cd6f"
       url: "https://pub.dev"
     source: hosted
     version: "10.7.0"
+=======
+      sha256: "27af5982e6c510dec1ba038eff634fa284676ee84e3fd807225c80c4ad869177"
+      url: "https://pub.dev"
+    source: hosted
+    version: "10.10.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   freezed_annotation:
     dependency: transitive
     description:
       name: freezed_annotation
+<<<<<<< HEAD
       sha256: c3fd9336eb55a38cc1bbd79ab17573113a8deccd0ecbbf926cca3c62803b5c2d
       url: "https://pub.dev"
     source: hosted
     version: "2.4.1"
+=======
+      sha256: c2e2d632dd9b8a2b7751117abcfc2b4888ecfe181bd9fca7170d9ef02e595fe2
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   frontend_server_client:
     dependency: transitive
     description:
@@ -553,146 +907,272 @@ packages:
     dependency: transitive
     description:
       name: glob
+<<<<<<< HEAD
       sha256: "0e7014b3b7d4dac1ca4d6114f82bf1782ee86745b9b42a92c9289c23d8a0ab63"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
+=======
+      sha256: c3f1ee72c96f8f78935e18aa8cecced9ab132419e8625dc187e1c2408efc20de
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   google_fonts:
     dependency: "direct main"
     description:
       name: google_fonts
+<<<<<<< HEAD
       sha256: b1ac0fe2832c9cc95e5e88b57d627c5e68c223b9657f4b96e1487aa9098c7b82
       url: "https://pub.dev"
     source: hosted
     version: "6.2.1"
+=======
+      sha256: ebc94ed30fd13cefd397cb1658b593f21571f014b7d1197eeb41fb95f05d899a
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.3.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   google_nav_bar:
     dependency: "direct main"
     description:
       name: google_nav_bar
+<<<<<<< HEAD
       sha256: "1c8e3882fa66ee7b74c24320668276ca23affbd58f0b14a24c1e5590f4d07ab0"
       url: "https://pub.dev"
     source: hosted
     version: "5.0.6"
+=======
+      sha256: bb12dd21514ee1b041ab3127673e2fd85e693337df308f7f2b75cd1e8e92eaf4
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.0.7"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   graphs:
     dependency: transitive
     description:
       name: graphs
+<<<<<<< HEAD
       sha256: aedc5a15e78fc65a6e23bcd927f24c64dd995062bcd1ca6eda65a3cff92a4d19
       url: "https://pub.dev"
     source: hosted
     version: "2.3.1"
+=======
+      sha256: "741bbf84165310a68ff28fe9e727332eef1407342fca52759cb21ad8177bb8d0"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.3.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   html:
     dependency: transitive
     description:
       name: html
+<<<<<<< HEAD
       sha256: "3a7812d5bcd2894edf53dfaf8cd640876cf6cef50a8f238745c8b8120ea74d3a"
       url: "https://pub.dev"
     source: hosted
     version: "0.15.4"
+=======
+      sha256: "6d1264f2dffa1b1101c25a91dff0dc2daee4c18e87cd8538729773c073dbf602"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.15.6"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   http:
     dependency: transitive
     description:
       name: http
+<<<<<<< HEAD
       sha256: "761a297c042deedc1ffbb156d6e2af13886bb305c2a343a4d972504cd67dd938"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
+=======
+      sha256: bb2ce4590bc2667c96f318d68cac1b5a7987ec819351d32b1c987239a815e007
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.5.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   http_multi_server:
     dependency: transitive
     description:
       name: http_multi_server
+<<<<<<< HEAD
       sha256: "97486f20f9c2f7be8f514851703d0119c3596d14ea63227af6f7a481ef2b2f8b"
       url: "https://pub.dev"
     source: hosted
     version: "3.2.1"
+=======
+      sha256: aa6199f908078bb1c5efb8d8638d4ae191aac11b311132c3ef48ce352fb52ef8
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   http_parser:
     dependency: transitive
     description:
       name: http_parser
+<<<<<<< HEAD
       sha256: "2aa08ce0341cc9b354a498388e30986515406668dbcc4f7c950c3e715496693b"
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
+=======
+      sha256: "178d74305e7866013777bab2c3d8726205dc5a4dd935297175b19a23a2e66571"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.1.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image:
     dependency: transitive
     description:
       name: image
+<<<<<<< HEAD
       sha256: "4c68bfd5ae83e700b5204c1e74451e7bf3cf750e6843c6e158289cf56bda018e"
       url: "https://pub.dev"
     source: hosted
     version: "4.1.7"
+=======
+      sha256: "4e973fcf4caae1a4be2fa0a13157aa38a8f9cb049db6529aa00b4d71abc4d928"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.5.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker:
     dependency: "direct main"
     description:
       name: image_picker
+<<<<<<< HEAD
       sha256: "33974eca2e87e8b4e3727f1b94fa3abcb25afe80b6bc2c4d449a0e150aedf720"
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+=======
+      sha256: "736eb56a911cf24d1859315ad09ddec0b66104bc41a7f8c5b96b4e2620cf5041"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_android:
     dependency: transitive
     description:
       name: image_picker_android
+<<<<<<< HEAD
       sha256: "0f57fee1e8bfadf8cc41818bbcd7f72e53bb768a54d9496355d5e8a5681a19f1"
       url: "https://pub.dev"
     source: hosted
     version: "0.8.12+1"
+=======
+      sha256: a45bef33deb24839a51fb85a4d9e504ead2b1ad1c4779d02d09bf6a8857cdd52
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.8.13+2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_for_web:
     dependency: transitive
     description:
       name: image_picker_for_web
+<<<<<<< HEAD
       sha256: "5d6eb13048cd47b60dbf1a5495424dea226c5faf3950e20bf8120a58efb5b5f3"
       url: "https://pub.dev"
     source: hosted
     version: "3.0.4"
+=======
+      sha256: "40c2a6a0da15556dc0f8e38a3246064a971a9f512386c3339b89f76db87269b6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_ios:
     dependency: transitive
     description:
       name: image_picker_ios
+<<<<<<< HEAD
       sha256: f3285238eb1474ee42946f557ad7df17aa6a2cf4106c2f41bdc948cd71c8b5e5
       url: "https://pub.dev"
     source: hosted
     version: "0.8.11+1"
+=======
+      sha256: eb06fe30bab4c4497bad449b66448f50edcc695f1c59408e78aa3a8059eb8f0e
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.8.13"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_linux:
     dependency: transitive
     description:
       name: image_picker_linux
+<<<<<<< HEAD
       sha256: "4ed1d9bb36f7cd60aa6e6cd479779cc56a4cb4e4de8f49d487b1aaad831300fa"
       url: "https://pub.dev"
     source: hosted
     version: "0.2.1+1"
+=======
+      sha256: "1f81c5f2046b9ab724f85523e4af65be1d47b038160a8c8deed909762c308ed4"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_macos:
     dependency: transitive
     description:
       name: image_picker_macos
+<<<<<<< HEAD
       sha256: "3f5ad1e8112a9a6111c46d0b57a7be2286a9a07fc6e1976fdf5be2bd31d4ff62"
       url: "https://pub.dev"
     source: hosted
     version: "0.2.1+1"
+=======
+      sha256: d58cd9d67793d52beefd6585b12050af0a7663c0c2a6ece0fb110a35d6955e04
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_platform_interface:
     dependency: transitive
     description:
       name: image_picker_platform_interface
+<<<<<<< HEAD
       sha256: "9ec26d410ff46f483c5519c29c02ef0e02e13a543f882b152d4bfd2f06802f80"
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
+=======
+      sha256: "9f143b0dba3e459553209e20cc425c9801af48e6dfa4f01a0fcf927be3f41665"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.11.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   image_picker_windows:
     dependency: transitive
     description:
       name: image_picker_windows
+<<<<<<< HEAD
       sha256: "6ad07afc4eb1bc25f3a01084d28520496c4a3bb0cb13685435838167c9dcedeb"
       url: "https://pub.dev"
     source: hosted
     version: "0.2.1+1"
+=======
+      sha256: d248c86554a72b5495a31c56f060cf73a41c7ff541689327b1a7dbccc33adfae
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   intl:
     dependency: "direct main"
     description:
       name: intl
+<<<<<<< HEAD
       sha256: d6f56758b7d3014a48af9701c085700aac781a92a87a62b1333b46d8879661cf
       url: "https://pub.dev"
     source: hosted
     version: "0.19.0"
+=======
+      sha256: "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.20.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   intl_phone_number_input:
     dependency: transitive
     description:
@@ -705,10 +1185,17 @@ packages:
     dependency: transitive
     description:
       name: io
+<<<<<<< HEAD
       sha256: "2ec25704aba361659e10e3e5f5d672068d332fc8ac516421d483a11e5cbd061e"
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
+=======
+      sha256: dfd5a80599cf0165756e3181807ed3e77daf6dd4137caaad72d0b7931597650b
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.5"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   js:
     dependency: transitive
     description:
@@ -729,58 +1216,107 @@ packages:
     dependency: transitive
     description:
       name: json_serializable
+<<<<<<< HEAD
       sha256: ea1432d167339ea9b5bb153f0571d0039607a873d6e04e0117af043f14a1fd4b
       url: "https://pub.dev"
     source: hosted
     version: "6.8.0"
+=======
+      sha256: "33a040668b31b320aafa4822b7b1e177e163fc3c1e835c6750319d4ab23aa6fe"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.11.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   just_audio:
     dependency: transitive
     description:
       name: just_audio
+<<<<<<< HEAD
       sha256: b7cb6bbf3750caa924d03f432ba401ec300fd90936b3f73a9b33d58b1e96286b
       url: "https://pub.dev"
     source: hosted
     version: "0.9.37"
+=======
+      sha256: "9694e4734f515f2a052493d1d7e0d6de219ee0427c7c29492e246ff32a219908"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.10.5"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   just_audio_platform_interface:
     dependency: transitive
     description:
       name: just_audio_platform_interface
+<<<<<<< HEAD
       sha256: c3dee0014248c97c91fe6299edb73dc4d6c6930a2f4f713579cd692d9e47f4a1
       url: "https://pub.dev"
     source: hosted
     version: "4.2.2"
+=======
+      sha256: "2532c8d6702528824445921c5ff10548b518b13f808c2e34c2fd54793b999a6a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.6.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   just_audio_web:
     dependency: transitive
     description:
       name: just_audio_web
+<<<<<<< HEAD
       sha256: "134356b0fe3d898293102b33b5fd618831ffdc72bb7a1b726140abdf22772b70"
       url: "https://pub.dev"
     source: hosted
     version: "0.4.9"
+=======
+      sha256: "6ba8a2a7e87d57d32f0f7b42856ade3d6a9fbe0f1a11fabae0a4f00bb73f0663"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.16"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   leak_tracker:
     dependency: transitive
     description:
       name: leak_tracker
+<<<<<<< HEAD
       sha256: "7f0df31977cb2c0b88585095d168e689669a2cc9b97c309665e3386f3e9d341a"
       url: "https://pub.dev"
     source: hosted
     version: "10.0.4"
+=======
+      sha256: "33e2e26bdd85a0112ec15400c8cbffea70d0f9c3407491f672a2fad47915e2de"
+      url: "https://pub.dev"
+    source: hosted
+    version: "11.0.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   leak_tracker_flutter_testing:
     dependency: transitive
     description:
       name: leak_tracker_flutter_testing
+<<<<<<< HEAD
       sha256: "06e98f569d004c1315b991ded39924b21af84cf14cc94791b8aea337d25b57f8"
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
+=======
+      sha256: "1dbc140bb5a23c75ea9c4811222756104fbcd1a27173f0c34ca01e16bea473c1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.10"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   leak_tracker_testing:
     dependency: transitive
     description:
       name: leak_tracker_testing
+<<<<<<< HEAD
       sha256: "6ba465d5d76e67ddf503e1161d1f4a6bc42306f9d66ca1e8f079a47290fb06d3"
       url: "https://pub.dev"
     source: hosted
     version: "3.0.1"
+=======
+      sha256: "8d5a2d49f4a66b49744b23b018848400d23e54caf9463f4eb20df3eb8acb2eb1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   libphonenumber_platform_interface:
     dependency: transitive
     description:
@@ -817,74 +1353,137 @@ packages:
     dependency: transitive
     description:
       name: lints
+<<<<<<< HEAD
       sha256: "976c774dd944a42e83e2467f4cc670daef7eed6295b10b36ae8c85bcbf828235"
       url: "https://pub.dev"
     source: hosted
     version: "4.0.0"
+=======
+      sha256: a5e2b223cb7c9c8efdc663ef484fdd95bb243bff242ef5b13e26883547fce9a0
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   logging:
     dependency: transitive
     description:
       name: logging
+<<<<<<< HEAD
       sha256: "623a88c9594aa774443aa3eb2d41807a48486b5613e67599fb4c41c0ad47c340"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+=======
+      sha256: c8245ada5f1717ed44271ed1c26b8ce85ca3228fd2ffdb75468ab01979309d61
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   lottie:
     dependency: transitive
     description:
       name: lottie
+<<<<<<< HEAD
       sha256: "46def1e76c4fbfd4643e823980112cfe94a2ba1d9152fe54701c0bf30be4f4cd"
       url: "https://pub.dev"
     source: hosted
     version: "3.1.1"
+=======
+      sha256: "8ae0be46dbd9e19641791dc12ee480d34e1fd3f84c749adc05f3ad9342b71b95"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.3.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   mailer:
     dependency: "direct main"
     description:
       name: mailer
+<<<<<<< HEAD
       sha256: d25d89555c1031abacb448f07b801d7c01b4c21d4558e944b12b64394c84a3cb
       url: "https://pub.dev"
     source: hosted
     version: "6.1.0"
+=======
+      sha256: db61f51ea301e8dcbfe5894e037ccd30a6246eb0a7bcfa007aefa2fc11a8f96e
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.5.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   markdown:
     dependency: transitive
     description:
       name: markdown
+<<<<<<< HEAD
       sha256: ef2a1298144e3f985cc736b22e0ccdaf188b5b3970648f2d9dc13efd1d9df051
       url: "https://pub.dev"
     source: hosted
     version: "7.2.2"
+=======
+      sha256: "935e23e1ff3bc02d390bad4d4be001208ee92cc217cb5b5a6c19bc14aaa318c1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "7.3.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   matcher:
     dependency: transitive
     description:
       name: matcher
+<<<<<<< HEAD
       sha256: d2323aa2060500f906aa31a895b4030b6da3ebdcc5619d14ce1aada65cd161cb
       url: "https://pub.dev"
     source: hosted
     version: "0.12.16+1"
+=======
+      sha256: dc58c723c3c24bf8d3e2d3ad3f2f9d7bd9cf43ec6feaa64181775e60190153f2
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.12.17"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   material_color_utilities:
     dependency: transitive
     description:
       name: material_color_utilities
+<<<<<<< HEAD
       sha256: "0e0a020085b65b6083975e499759762399b4475f766c21668c4ecca34ea74e5a"
       url: "https://pub.dev"
     source: hosted
     version: "0.8.0"
+=======
+      sha256: f7142bb1154231d7ea5f96bc7bde4bda2a0945d2806bb11670e30b850d56bdec
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.11.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   meta:
     dependency: transitive
     description:
       name: meta
+<<<<<<< HEAD
       sha256: "7687075e408b093f36e6bbf6c91878cc0d4cd10f409506f7bc996f68220b9136"
       url: "https://pub.dev"
     source: hosted
     version: "1.12.0"
+=======
+      sha256: e3641ec5d63ebf0d9b41bd43201a66e3fc79a65db5f61fc181f04cd27aab950c
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.16.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   mime:
     dependency: transitive
     description:
       name: mime
+<<<<<<< HEAD
       sha256: "2e123074287cc9fd6c09de8336dae606d1ddb88d9ac47358826db698c176a1f2"
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
+=======
+      sha256: "41a20518f0cb1256669420fdba0cd90d21561e560ac240f26ef8322e45bb7ed6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   nested:
     dependency: transitive
     description:
@@ -897,42 +1496,77 @@ packages:
     dependency: transitive
     description:
       name: package_config
+<<<<<<< HEAD
       sha256: "1c5b77ccc91e4823a5af61ee74e6b972db1ef98c2ff5a18d3161c982a55448bd"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
+=======
+      sha256: f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   package_info_plus:
     dependency: transitive
     description:
       name: package_info_plus
+<<<<<<< HEAD
       sha256: b93d8b4d624b4ea19b0a5a208b2d6eff06004bc3ce74c06040b120eeadd00ce0
       url: "https://pub.dev"
     source: hosted
     version: "8.0.0"
+=======
+      sha256: f69da0d3189a4b4ceaeb1a3defb0f329b3b352517f52bed4290f83d4f06bc08d
+      url: "https://pub.dev"
+    source: hosted
+    version: "9.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   package_info_plus_platform_interface:
     dependency: transitive
     description:
       name: package_info_plus_platform_interface
+<<<<<<< HEAD
       sha256: f49918f3433a3146047372f9d4f1f847511f2acd5cd030e1f44fe5a50036b70e
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+=======
+      sha256: "202a487f08836a592a6bd4f901ac69b3a8f146af552bbd14407b6b41e1c3f086"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   page_transition:
     dependency: transitive
     description:
       name: page_transition
+<<<<<<< HEAD
       sha256: dee976b1f23de9bbef5cd512fe567e9f6278caee11f5eaca9a2115c19dc49ef6
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
+=======
+      sha256: "9d2a780d7d68b53ae82fbcc43e06a16195e6775e9aae40e55dc0cbb593460f9d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   path:
     dependency: "direct main"
     description:
       name: path
+<<<<<<< HEAD
       sha256: "087ce49c3f0dc39180befefc60fdb4acd8f8620e5682fe2476afd0b3688bb4af"
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
+=======
+      sha256: "75cca69d1490965be98c73ceaea117e8a04dd21217b37b292c9ddbec0d955bc5"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.9.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   path_drawing:
     dependency: transitive
     description:
@@ -945,34 +1579,62 @@ packages:
     dependency: transitive
     description:
       name: path_parsing
+<<<<<<< HEAD
       sha256: e3e67b1629e6f7e8100b367d3db6ba6af4b1f0bb80f64db18ef1fbabd2fa9ccf
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
+=======
+      sha256: "883402936929eac138ee0a45da5b0f2c80f89913e6dc3bf77eb65b84b409c6ca"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   path_provider:
     dependency: "direct main"
     description:
       name: path_provider
+<<<<<<< HEAD
       sha256: c9e7d3a4cd1410877472158bee69963a4579f78b68c65a2b7d40d1a7a88bb161
       url: "https://pub.dev"
     source: hosted
     version: "2.1.3"
+=======
+      sha256: "50c5dd5b6e1aaf6fb3a78b33f6aa3afca52bf903a8a5298f53101fdaee55bbcd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.5"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   path_provider_android:
     dependency: transitive
     description:
       name: path_provider_android
+<<<<<<< HEAD
       sha256: a248d8146ee5983446bf03ed5ea8f6533129a12b11f12057ad1b4a67a2b3b41d
       url: "https://pub.dev"
     source: hosted
     version: "2.2.4"
+=======
+      sha256: "993381400e94d18469750e5b9dcb8206f15bc09f9da86b9e44a9b0092a0066db"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.18"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   path_provider_foundation:
     dependency: transitive
     description:
       name: path_provider_foundation
+<<<<<<< HEAD
       sha256: f234384a3fdd67f989b4d54a5d73ca2a6c422fa55ae694381ae0f4375cd1ea16
       url: "https://pub.dev"
     source: hosted
     version: "2.4.0"
+=======
+      sha256: "16eef174aacb07e09c351502740fa6254c165757638eba1e9116b0a781201bbd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   path_provider_linux:
     dependency: transitive
     description:
@@ -993,34 +1655,62 @@ packages:
     dependency: transitive
     description:
       name: path_provider_windows
+<<<<<<< HEAD
       sha256: "8bc9f22eee8690981c22aa7fc602f5c85b497a6fb2ceb35ee5a5e5ed85ad8170"
       url: "https://pub.dev"
     source: hosted
     version: "2.2.1"
+=======
+      sha256: bd6f00dbd873bfb70d0761682da2b3a2c2fccc2b9e84c495821639601d81afe7
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.3.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   petitparser:
     dependency: transitive
     description:
       name: petitparser
+<<<<<<< HEAD
       sha256: c15605cd28af66339f8eb6fbe0e541bfe2d1b72d5825efc6598f3e0a31b9ad27
       url: "https://pub.dev"
     source: hosted
     version: "6.0.2"
+=======
+      sha256: "1a97266a94f7350d30ae522c0af07890c70b8e62c71e8e3920d1db4d23c057d1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "7.0.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   phone_numbers_parser:
     dependency: transitive
     description:
       name: phone_numbers_parser
+<<<<<<< HEAD
       sha256: ebe08725e63218a6ae2bf9129b7130332cb2ababa4988f07d6ddce48b0c21e06
       url: "https://pub.dev"
     source: hosted
     version: "8.2.1"
+=======
+      sha256: "87b2c344e1ae28bc92ee9e534b30ef85a16d4e7279a770c222aaefe2eeac6f02"
+      url: "https://pub.dev"
+    source: hosted
+    version: "9.0.11"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   platform:
     dependency: transitive
     description:
       name: platform
+<<<<<<< HEAD
       sha256: "12220bb4b65720483f8fa9450b4332347737cf8213dd2840d8b2c823e47243ec"
       url: "https://pub.dev"
     source: hosted
     version: "3.1.4"
+=======
+      sha256: "5d6b1b0036a5f331ebc77c850ebc8506cbc1e9416c27e59b439f917a902a4984"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.6"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   plugin_platform_interface:
     dependency: transitive
     description:
@@ -1037,38 +1727,77 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.5.1"
+<<<<<<< HEAD
+=======
+  posix:
+    dependency: transitive
+    description:
+      name: posix
+      sha256: "6323a5b0fa688b6a010df4905a56b00181479e6d10534cecfecede2aa55add61"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   provider:
     dependency: "direct main"
     description:
       name: provider
+<<<<<<< HEAD
       sha256: c8a055ee5ce3fd98d6fc872478b03823ffdb448699c6ebdbbc71d59b596fd48c
       url: "https://pub.dev"
     source: hosted
     version: "6.1.2"
+=======
+      sha256: "4e82183fa20e5ca25703ead7e05de9e4cceed1fbd1eadc1ac3cb6f565a09f272"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.1.5+1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   pub_semver:
     dependency: transitive
     description:
       name: pub_semver
+<<<<<<< HEAD
       sha256: "40d3ab1bbd474c4c2328c91e3a7df8c6dd629b79ece4c4bd04bee496a224fb0c"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
+=======
+      sha256: "5bfcf68ca79ef689f8990d1160781b4bad40a3bd5e5218ad4076ddb7f4081585"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   pubspec_parse:
     dependency: transitive
     description:
       name: pubspec_parse
+<<<<<<< HEAD
       sha256: c63b2876e58e194e4b0828fcb080ad0e06d051cb607a6be51a9e084f47cb9367
       url: "https://pub.dev"
     source: hosted
     version: "1.2.3"
+=======
+      sha256: "0560ba233314abbed0a48a2956f7f022cce7c3e1e73df540277da7544cad4082"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.5.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   quiver:
     dependency: transitive
     description:
       name: quiver
+<<<<<<< HEAD
       sha256: b1c1ac5ce6688d77f65f3375a9abb9319b3cb32486bdc7a1e0fdf004d7ba4e47
       url: "https://pub.dev"
     source: hosted
     version: "3.2.1"
+=======
+      sha256: ea0b925899e64ecdfbf9c7becb60d5b50e706ade44a85b2363be2a22d88117d2
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   responsive_sizer:
     dependency: "direct main"
     description:
@@ -1081,143 +1810,266 @@ packages:
     dependency: transitive
     description:
       name: rotation_stage
+<<<<<<< HEAD
       sha256: a7aefb70f4c80d1efe0827af970963594904e066bf86236416bdc9fade0a1e6e
       url: "https://pub.dev"
     source: hosted
     version: "0.0.9"
+=======
+      sha256: "0e94f2b48d0d52bb6783afed022d3d26e431c0c8ff81216f6996a57b89c7194f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   rxdart:
     dependency: transitive
     description:
       name: rxdart
+<<<<<<< HEAD
       sha256: "0c7c0cedd93788d996e33041ffecda924cc54389199cde4e6a34b440f50044cb"
       url: "https://pub.dev"
     source: hosted
     version: "0.27.7"
+=======
+      sha256: "5c3004a4a8dbb94bd4bf5412a4def4acdaa12e12f269737a5751369e12d1a962"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.28.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences:
     dependency: "direct main"
     description:
       name: shared_preferences
+<<<<<<< HEAD
       sha256: d3bbe5553a986e83980916ded2f0b435ef2e1893dfaa29d5a7a790d0eca12180
       url: "https://pub.dev"
     source: hosted
     version: "2.2.3"
+=======
+      sha256: "6e8bf70b7fef813df4e9a36f658ac46d107db4b4cfe1048b477d4e453a8159f5"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.5.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences_android:
     dependency: transitive
     description:
       name: shared_preferences_android
+<<<<<<< HEAD
       sha256: "1ee8bf911094a1b592de7ab29add6f826a7331fb854273d55918693d5364a1f2"
       url: "https://pub.dev"
     source: hosted
     version: "2.2.2"
+=======
+      sha256: a2608114b1ffdcbc9c120eb71a0e207c71da56202852d4aab8a5e30a82269e74
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.12"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences_foundation:
     dependency: transitive
     description:
       name: shared_preferences_foundation
+<<<<<<< HEAD
       sha256: "0a8a893bf4fd1152f93fec03a415d11c27c74454d96e2318a7ac38dd18683ab7"
       url: "https://pub.dev"
     source: hosted
     version: "2.4.0"
+=======
+      sha256: "6a52cfcdaeac77cad8c97b539ff688ccfc458c007b4db12be584fbe5c0e49e03"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.5.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences_linux:
     dependency: transitive
     description:
       name: shared_preferences_linux
+<<<<<<< HEAD
       sha256: "9f2cbcf46d4270ea8be39fa156d86379077c8a5228d9dfdb1164ae0bb93f1faa"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.2"
+=======
+      sha256: "580abfd40f415611503cae30adf626e6656dfb2f0cee8f465ece7b6defb40f2f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences_platform_interface:
     dependency: transitive
     description:
       name: shared_preferences_platform_interface
+<<<<<<< HEAD
       sha256: "22e2ecac9419b4246d7c22bfbbda589e3acf5c0351137d87dd2939d984d37c3b"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.2"
+=======
+      sha256: "57cbf196c486bc2cf1f02b85784932c6094376284b3ad5779d1b1c6c6a816b80"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences_web:
     dependency: transitive
     description:
       name: shared_preferences_web
+<<<<<<< HEAD
       sha256: "9aee1089b36bd2aafe06582b7d7817fd317ef05fc30e6ba14bff247d0933042a"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.0"
+=======
+      sha256: c49bd060261c9a3f0ff445892695d6212ff603ef3115edbb448509d407600019
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shared_preferences_windows:
     dependency: transitive
     description:
       name: shared_preferences_windows
+<<<<<<< HEAD
       sha256: "841ad54f3c8381c480d0c9b508b89a34036f512482c407e6df7a9c4aa2ef8f59"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.2"
+=======
+      sha256: "94ef0f72b2d71bc3e700e025db3710911bd51a71cefb65cc609dd0d9a982e3c1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shelf:
     dependency: transitive
     description:
       name: shelf
+<<<<<<< HEAD
       sha256: ad29c505aee705f41a4d8963641f91ac4cee3c8fad5947e033390a7bd8180fa4
       url: "https://pub.dev"
     source: hosted
     version: "1.4.1"
+=======
+      sha256: e7dd780a7ffb623c57850b33f43309312fc863fb6aa3d276a754bb299839ef12
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   shelf_web_socket:
     dependency: transitive
     description:
       name: shelf_web_socket
+<<<<<<< HEAD
       sha256: "073c147238594ecd0d193f3456a5fe91c4b0abbcc68bf5cd95b36c4e194ac611"
       url: "https://pub.dev"
     source: hosted
     version: "2.0.0"
+=======
+      sha256: "3632775c8e90d6c9712f883e633716432a27758216dfb61bd86a8321c0580925"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   sign_in_button:
     dependency: transitive
     description:
       name: sign_in_button
+<<<<<<< HEAD
       sha256: "977b9b0415d2f3909e642275dfabba7919ba8e111324641b76cae6d1acbd183e"
       url: "https://pub.dev"
     source: hosted
     version: "3.2.0"
+=======
+      sha256: "7bcd5e3ca5f80578da6a92b8749badf4003cf4dc578b5cb737b9082871354ff8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   simple_animations:
     dependency: "direct main"
     description:
       name: simple_animations
+<<<<<<< HEAD
       sha256: "1ea7b93fb98e2a611b6865d632de55607b766328d14700143353129ee0559d3a"
       url: "https://pub.dev"
     source: hosted
     version: "5.0.2"
+=======
+      sha256: "2f4817d7e56a8ae34f1666ba9906aed394a48c7e1568d0fcd63efefb95142dd5"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   sizer:
     dependency: "direct main"
     description:
       name: sizer
+<<<<<<< HEAD
       sha256: d2b3cb6cbc4a637f508dacd786bae55df31e5fc088044248a43e4fd1e050c117
       url: "https://pub.dev"
     source: hosted
     version: "2.0.15"
+=======
+      sha256: "9963c89e4d30d7c2108de3eafc0a7e6a4a8009799376ea6be5ef0a9ad87cfbad"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   sky_engine:
     dependency: transitive
     description: flutter
     source: sdk
+<<<<<<< HEAD
     version: "0.0.99"
+=======
+    version: "0.0.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   source_gen:
     dependency: transitive
     description:
       name: source_gen
+<<<<<<< HEAD
       sha256: "14658ba5f669685cd3d63701d01b31ea748310f7ab854e471962670abcf57832"
       url: "https://pub.dev"
     source: hosted
     version: "1.5.0"
+=======
+      sha256: ccf30b0c9fbcd79d8b6f5bfac23199fb354938436f62475e14aea0f29ee0f800
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   source_helper:
     dependency: transitive
     description:
       name: source_helper
+<<<<<<< HEAD
       sha256: "6adebc0006c37dd63fe05bca0a929b99f06402fc95aa35bf36d67f5c06de01fd"
       url: "https://pub.dev"
     source: hosted
     version: "1.3.4"
+=======
+      sha256: "6a3c6cc82073a8797f8c4dc4572146114a39652851c157db37e964d9c7038723"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.8"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   source_span:
     dependency: transitive
     description:
       name: source_span
+<<<<<<< HEAD
       sha256: "53e943d4206a5e30df338fd4c6e7a077e02254531b138a15aec3bd143c1a8b3c"
       url: "https://pub.dev"
     source: hosted
     version: "1.10.0"
+=======
+      sha256: "254ee5351d6cb365c859e20ee823c3bb479bf4a293c22d17a9f1bf144ce86f7c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.10.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   sprintf:
     dependency: transitive
     description:
@@ -1230,50 +2082,116 @@ packages:
     dependency: "direct main"
     description:
       name: sqflite
+<<<<<<< HEAD
       sha256: a43e5a27235518c03ca238e7b4732cf35eabe863a369ceba6cbefa537a66f16d
       url: "https://pub.dev"
     source: hosted
     version: "2.3.3+1"
+=======
+      sha256: e2297b1da52f127bc7a3da11439985d9b536f75070f3325e62ada69a5c585d03
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.2"
+  sqflite_android:
+    dependency: transitive
+    description:
+      name: sqflite_android
+      sha256: ecd684501ebc2ae9a83536e8b15731642b9570dc8623e0073d227d0ee2bfea88
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.2+2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   sqflite_common:
     dependency: transitive
     description:
       name: sqflite_common
+<<<<<<< HEAD
       sha256: "3da423ce7baf868be70e2c0976c28a1bb2f73644268b7ffa7d2e08eab71f16a4"
       url: "https://pub.dev"
     source: hosted
     version: "2.5.4"
+=======
+      sha256: "6ef422a4525ecc601db6c0a2233ff448c731307906e92cabc9ba292afaae16a6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.5.6"
+  sqflite_darwin:
+    dependency: transitive
+    description:
+      name: sqflite_darwin
+      sha256: "279832e5cde3fe99e8571879498c9211f3ca6391b0d818df4e17d9fff5c6ccb3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.2"
+  sqflite_platform_interface:
+    dependency: transitive
+    description:
+      name: sqflite_platform_interface
+      sha256: "8dd4515c7bdcae0a785b0062859336de775e8c65db81ae33dd5445f35be61920"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   stack_trace:
     dependency: transitive
     description:
       name: stack_trace
+<<<<<<< HEAD
       sha256: "73713990125a6d93122541237550ee3352a2d84baad52d375a4cad2eb9b7ce0b"
       url: "https://pub.dev"
     source: hosted
     version: "1.11.1"
+=======
+      sha256: "8b27215b45d22309b5cddda1aa2b19bdfec9df0e765f2de506401c071d38d1b1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.12.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   stream_channel:
     dependency: transitive
     description:
       name: stream_channel
+<<<<<<< HEAD
       sha256: ba2aa5d8cc609d96bbb2899c28934f9e1af5cddbd60a827822ea467161eb54e7
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
+=======
+      sha256: "969e04c80b8bcdf826f8f16579c7b14d780458bd97f56d107d3950fdbeef059d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   stream_transform:
     dependency: transitive
     description:
       name: stream_transform
+<<<<<<< HEAD
       sha256: "14a00e794c7c11aa145a170587321aedce29769c08d7f58b1d141da75e3b1c6f"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
+=======
+      sha256: ad47125e588cfd37a9a7f86c7d6356dde8dfe89d071d293f80ca9e9273a33871
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   string_scanner:
     dependency: transitive
     description:
       name: string_scanner
+<<<<<<< HEAD
       sha256: "556692adab6cfa87322a115640c11f13cb77b3f076ddcc5d6ae3c20242bedcde"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+=======
+      sha256: "921cd31725b72fe181906c6a94d987c78e3b98c2e205b397ea399d4054872b43"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   supercharged:
     dependency: "direct main"
     description:
@@ -1294,78 +2212,150 @@ packages:
     dependency: "direct main"
     description:
       name: survey_kit
+<<<<<<< HEAD
       sha256: "760dd45a0dcde46a363c35409a53073eeb3928912f199a250f7f042c4486cad3"
       url: "https://pub.dev"
     source: hosted
     version: "1.0.0-dev.5"
+=======
+      sha256: fcdb0508574440a1455b0ce5c0aa4049b01363c6ac986398b2ab86c958e2a3c4
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   syncfusion_flutter_calendar:
     dependency: "direct main"
     description:
       name: syncfusion_flutter_calendar
+<<<<<<< HEAD
       sha256: bc96dbc3089d4172ef259a3ae3f254bdb07e71ef6ce3f8a3532a9b575490e45e
       url: "https://pub.dev"
     source: hosted
     version: "25.2.4"
+=======
+      sha256: d7e331d1067a2fe99ebfcd5874c39af7620e17c7f036360486c5f68925222d06
+      url: "https://pub.dev"
+    source: hosted
+    version: "31.1.19"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   syncfusion_flutter_charts:
     dependency: "direct main"
     description:
       name: syncfusion_flutter_charts
+<<<<<<< HEAD
       sha256: "01ff26c73725cb4f9d04492daae4d0365c2ed2cbf43cd83132a24f47d4d4931c"
       url: "https://pub.dev"
     source: hosted
     version: "25.2.4"
+=======
+      sha256: "75e54c1dea16e0132a942294a82b489986f43f4c72f7ac7c916a02a78b2d6050"
+      url: "https://pub.dev"
+    source: hosted
+    version: "31.1.19"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   syncfusion_flutter_core:
     dependency: transitive
     description:
       name: syncfusion_flutter_core
+<<<<<<< HEAD
       sha256: "9e8bac2367d03bd902844f59e866c0e7b1e10b0b8fa5a6a926c0d8ae8c344533"
       url: "https://pub.dev"
     source: hosted
     version: "25.2.4"
+=======
+      sha256: "2d878bce96c4fd1092205a4f72b328f7f05d86b27c3bd55db7fd440e6017352a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "31.1.19"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   syncfusion_flutter_datepicker:
     dependency: transitive
     description:
       name: syncfusion_flutter_datepicker
+<<<<<<< HEAD
       sha256: "88ef2e85f5ccc7cb521c5784e646b5c5d4aecf2d9373e543719a14d7bcfaae4a"
       url: "https://pub.dev"
     source: hosted
     version: "25.2.4"
+=======
+      sha256: bbd2135dcfed085fca2296a9b1492b2ecf1d288e5aa0758d8827ece58e26df0b
+      url: "https://pub.dev"
+    source: hosted
+    version: "31.1.19"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   syncfusion_flutter_sliders:
     dependency: "direct main"
     description:
       name: syncfusion_flutter_sliders
+<<<<<<< HEAD
       sha256: fb7179b40d18f674e39fa689fe79277c2896a2bd489abe56511bfacf5ef4b578
       url: "https://pub.dev"
     source: hosted
     version: "25.2.4"
+=======
+      sha256: "9fe380c17215296473a60f8d4dfe51bac1d141d76b931e93d758fe1e3ab23441"
+      url: "https://pub.dev"
+    source: hosted
+    version: "31.1.19"
+  syncfusion_localizations:
+    dependency: transitive
+    description:
+      name: syncfusion_localizations
+      sha256: "4cd832b1fdb7219ebec13fde2358ff10f07c01e2dff605596d16205cd1bce03e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "31.1.19"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   synchronized:
     dependency: transitive
     description:
       name: synchronized
+<<<<<<< HEAD
       sha256: "539ef412b170d65ecdafd780f924e5be3f60032a1128df156adad6c5b373d558"
       url: "https://pub.dev"
     source: hosted
     version: "3.1.0+1"
+=======
+      sha256: c254ade258ec8282947a0acbbc90b9575b4f19673533ee46f2f6e9b3aeefd7c0
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   term_glyph:
     dependency: transitive
     description:
       name: term_glyph
+<<<<<<< HEAD
       sha256: a29248a84fbb7c79282b40b8c72a1209db169a2e0542bce341da992fe1bc7e84
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
+=======
+      sha256: "7f554798625ea768a7518313e58f83891c7f5024f88e46e7182a4558850a4b8e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   test_api:
     dependency: transitive
     description:
       name: test_api
+<<<<<<< HEAD
       sha256: "9955ae474176f7ac8ee4e989dadfb411a58c30415bcfb648fa04b2b8a03afa7f"
       url: "https://pub.dev"
     source: hosted
     version: "0.7.0"
+=======
+      sha256: "522f00f556e73044315fa4585ec3270f1808a4b186c936e612cab0b565ff1e00"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.6"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   timezone:
     dependency: transitive
     description:
       name: timezone
+<<<<<<< HEAD
       sha256: a6ccda4a69a442098b602c44e61a1e2b4bf6f5516e875bbf0f427d5df14745d5
       url: "https://pub.dev"
     source: hosted
@@ -1378,6 +2368,12 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.1"
+=======
+      sha256: dd14a3b83cfd7cb19e7888f1cbc20f258b8d71b54c06f79ac585f14093a287d1
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.10.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   toggle_switch:
     dependency: "direct main"
     description:
@@ -1398,10 +2394,17 @@ packages:
     dependency: transitive
     description:
       name: typed_data
+<<<<<<< HEAD
       sha256: facc8d6582f16042dd49f2463ff1bd6e2c9ef9f3d5da3d9b087e244a7b564b3c
       url: "https://pub.dev"
     source: hosted
     version: "1.3.2"
+=======
+      sha256: f9049c039ebfeb4cf7a7104a675823cd72dba8297f264b6637062516699fa006
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   universal_html:
     dependency: transitive
     description:
@@ -1422,42 +2425,77 @@ packages:
     dependency: transitive
     description:
       name: url_launcher
+<<<<<<< HEAD
       sha256: "6ce1e04375be4eed30548f10a315826fd933c1e493206eab82eed01f438c8d2e"
       url: "https://pub.dev"
     source: hosted
     version: "6.2.6"
+=======
+      sha256: f6a7e5c4835bb4e3026a04793a4199ca2d14c739ec378fdfe23fc8075d0439f8
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.3.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   url_launcher_android:
     dependency: transitive
     description:
       name: url_launcher_android
+<<<<<<< HEAD
       sha256: "360a6ed2027f18b73c8d98e159dda67a61b7f2e0f6ec26e86c3ada33b0621775"
       url: "https://pub.dev"
     source: hosted
     version: "6.3.1"
+=======
+      sha256: "199bc33e746088546a39cc5f36bac5a278c5e53b40cb3196f99e7345fdcfae6b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.3.22"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   url_launcher_ios:
     dependency: transitive
     description:
       name: url_launcher_ios
+<<<<<<< HEAD
       sha256: "7068716403343f6ba4969b4173cbf3b84fc768042124bc2c011e5d782b24fe89"
       url: "https://pub.dev"
     source: hosted
     version: "6.3.0"
+=======
+      sha256: d80b3f567a617cb923546034cc94bfe44eb15f989fe670b37f26abdb9d939cb7
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.3.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   url_launcher_linux:
     dependency: transitive
     description:
       name: url_launcher_linux
+<<<<<<< HEAD
       sha256: ab360eb661f8879369acac07b6bb3ff09d9471155357da8443fd5d3cf7363811
       url: "https://pub.dev"
     source: hosted
     version: "3.1.1"
+=======
+      sha256: "4e9ba368772369e3e08f231d2301b4ef72b9ff87c31192ef471b380ef29a4935"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   url_launcher_macos:
     dependency: transitive
     description:
       name: url_launcher_macos
+<<<<<<< HEAD
       sha256: "9a1a42d5d2d95400c795b2914c36fdcb525870c752569438e4ebb09a2b5d90de"
       url: "https://pub.dev"
     source: hosted
     version: "3.2.0"
+=======
+      sha256: c043a77d6600ac9c38300567f33ef12b0ef4f4783a2c1f00231d2b1941fea13f
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   url_launcher_platform_interface:
     dependency: transitive
     description:
@@ -1470,74 +2508,137 @@ packages:
     dependency: transitive
     description:
       name: url_launcher_web
+<<<<<<< HEAD
       sha256: "8d9e750d8c9338601e709cd0885f95825086bd8b642547f26bda435aade95d8a"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.1"
+=======
+      sha256: "4bd2b7b4dc4d4d0b94e5babfffbca8eac1a126c7f3d6ecbc1a11013faa3abba2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   url_launcher_windows:
     dependency: transitive
     description:
       name: url_launcher_windows
+<<<<<<< HEAD
       sha256: ecf9725510600aa2bb6d7ddabe16357691b6d2805f66216a97d1b881e21beff7
       url: "https://pub.dev"
     source: hosted
     version: "3.1.1"
+=======
+      sha256: "3284b6d2ac454cf34f114e1d3319866fdd1e19cdc329999057e44ffe936cfa77"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   uuid:
     dependency: transitive
     description:
       name: uuid
+<<<<<<< HEAD
       sha256: "814e9e88f21a176ae1359149021870e87f7cddaf633ab678a5d2b0bff7fd1ba8"
       url: "https://pub.dev"
     source: hosted
     version: "4.4.0"
+=======
+      sha256: a5be9ef6618a7ac1e964353ef476418026db906c4facdedaa299b7a2e71690ff
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.5.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   vector_math:
     dependency: transitive
     description:
       name: vector_math
+<<<<<<< HEAD
       sha256: "80b3257d1492ce4d091729e3a67a60407d227c27241d6927be0130c98e741803"
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
+=======
+      sha256: d530bd74fea330e6e364cda7a85019c434070188383e1cd8d9777ee586914c5b
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   video_player:
     dependency: transitive
     description:
       name: video_player
+<<<<<<< HEAD
       sha256: db6a72d8f4fd155d0189845678f55ad2fd54b02c10dcafd11c068dbb631286c0
       url: "https://pub.dev"
     source: hosted
     version: "2.8.6"
+=======
+      sha256: "0d55b1f1a31e5ad4c4967bfaa8ade0240b07d20ee4af1dfef5f531056512961a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.10.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   video_player_android:
     dependency: transitive
     description:
       name: video_player_android
+<<<<<<< HEAD
       sha256: "134e1ad410d67e18a19486ed9512c72dfc6d8ffb284d0e8f2e99e903d1ba8fa3"
       url: "https://pub.dev"
     source: hosted
     version: "2.4.14"
+=======
+      sha256: "59e5a457ddcc1688f39e9aef0efb62aa845cf0cbbac47e44ac9730dc079a2385"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.8.13"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   video_player_avfoundation:
     dependency: transitive
     description:
       name: video_player_avfoundation
+<<<<<<< HEAD
       sha256: d1e9a824f2b324000dc8fb2dcb2a3285b6c1c7c487521c63306cc5b394f68a7c
       url: "https://pub.dev"
     source: hosted
     version: "2.6.1"
+=======
+      sha256: f9a780aac57802b2892f93787e5ea53b5f43cc57dc107bee9436458365be71cd
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.8.4"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   video_player_platform_interface:
     dependency: transitive
     description:
       name: video_player_platform_interface
+<<<<<<< HEAD
       sha256: "236454725fafcacf98f0f39af0d7c7ab2ce84762e3b63f2cbb3ef9a7e0550bc6"
       url: "https://pub.dev"
     source: hosted
     version: "6.2.2"
+=======
+      sha256: cf2a1d29a284db648fd66cbd18aacc157f9862d77d2cc790f6f9678a46c1db5a
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   video_player_web:
     dependency: transitive
     description:
       name: video_player_web
+<<<<<<< HEAD
       sha256: "41245cef5ef29c4585dbabcbcbe9b209e34376642c7576cabf11b4ad9289d6e4"
       url: "https://pub.dev"
     source: hosted
     version: "2.3.0"
+=======
+      sha256: "9f3c00be2ef9b76a95d94ac5119fb843dca6f2c69e6c9968f6f2b6c9e7afbdeb"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   visibility_detector:
     dependency: transitive
     description:
@@ -1550,86 +2651,157 @@ packages:
     dependency: transitive
     description:
       name: vm_service
+<<<<<<< HEAD
       sha256: "3923c89304b715fb1eb6423f017651664a03bf5f4b29983627c4da791f74a4ec"
       url: "https://pub.dev"
     source: hosted
     version: "14.2.1"
+=======
+      sha256: "45caa6c5917fa127b5dbcfbd1fa60b14e583afdc08bfc96dda38886ca252eb60"
+      url: "https://pub.dev"
+    source: hosted
+    version: "15.0.2"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   wakelock_plus:
     dependency: transitive
     description:
       name: wakelock_plus
+<<<<<<< HEAD
       sha256: "14758533319a462ffb5aa3b7ddb198e59b29ac3b02da14173a1715d65d4e6e68"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.5"
+=======
+      sha256: "9296d40c9adbedaba95d1e704f4e0b434be446e2792948d0e4aa977048104228"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   wakelock_plus_platform_interface:
     dependency: transitive
     description:
       name: wakelock_plus_platform_interface
+<<<<<<< HEAD
       sha256: "422d1cdbb448079a8a62a5a770b69baa489f8f7ca21aef47800c726d404f9d16"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
+=======
+      sha256: "036deb14cd62f558ca3b73006d52ce049fabcdcb2eddfe0bf0fe4e8a943b5cf2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   watcher:
     dependency: transitive
     description:
       name: watcher
+<<<<<<< HEAD
       sha256: "3d2ad6751b3c16cf07c7fca317a1413b3f26530319181b37e3b9039b84fc01d8"
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
+=======
+      sha256: "5bf046f41320ac97a469d506261797f35254fa61c641741ef32dacda98b7d39c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   web:
     dependency: transitive
     description:
       name: web
+<<<<<<< HEAD
       sha256: "97da13628db363c635202ad97068d47c5b8aa555808e7a9411963c533b449b27"
       url: "https://pub.dev"
     source: hosted
     version: "0.5.1"
+=======
+      sha256: "868d88a33d8a87b18ffc05f9f030ba328ffefba92d6c127917a2ba740f9cfe4a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   web_socket:
     dependency: transitive
     description:
       name: web_socket
+<<<<<<< HEAD
       sha256: bfe704c186c6e32a46f6607f94d079cd0b747b9a489fceeecc93cd3adb98edd5
       url: "https://pub.dev"
     source: hosted
     version: "0.1.3"
+=======
+      sha256: "34d64019aa8e36bf9842ac014bb5d2f5586ca73df5e4d9bf5c936975cae6982c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   web_socket_channel:
     dependency: transitive
     description:
       name: web_socket_channel
+<<<<<<< HEAD
       sha256: a2d56211ee4d35d9b344d9d4ce60f362e4f5d1aafb988302906bd732bc731276
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+=======
+      sha256: d645757fb0f4773d602444000a8131ff5d48c9e47adfe9772652dd1a4f2d45c8
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.3"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   win32:
     dependency: transitive
     description:
       name: win32
+<<<<<<< HEAD
       sha256: a79dbe579cb51ecd6d30b17e0cae4e0ea15e2c0e66f69ad4198f22a6789e94f4
       url: "https://pub.dev"
     source: hosted
     version: "5.5.1"
+=======
+      sha256: "66814138c3562338d05613a6e368ed8cfb237ad6d64a9e9334be3f309acfca03"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.14.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   xdg_directories:
     dependency: transitive
     description:
       name: xdg_directories
+<<<<<<< HEAD
       sha256: faea9dee56b520b55a566385b84f2e8de55e7496104adada9962e0bd11bcff1d
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
+=======
+      sha256: "7a3f37b05d989967cdddcbb571f1ea834867ae2faa29725fd085180e0883aa15"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   xml:
     dependency: transitive
     description:
       name: xml
+<<<<<<< HEAD
       sha256: b015a8ad1c488f66851d762d3090a21c600e479dc75e68328c52774040cf9226
       url: "https://pub.dev"
     source: hosted
     version: "6.5.0"
+=======
+      sha256: "971043b3a0d3da28727e40ed3e0b5d18b742fa5a68665cca88e74b7876d5e025"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.6.1"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
   yaml:
     dependency: transitive
     description:
       name: yaml
+<<<<<<< HEAD
       sha256: "75769501ea3489fca56601ff33454fe45507ea3bfb014161abc3b43ae25989d5"
       url: "https://pub.dev"
     source: hosted
@@ -1637,3 +2809,12 @@ packages:
 sdks:
   dart: ">=3.4.0 <4.0.0"
   flutter: ">=3.19.2"
+=======
+      sha256: b9da305ac7c39faa3f030eccd175340f968459dae4af175130b3fc47e40d76ce
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.3"
+sdks:
+  dart: ">=3.9.0 <4.0.0"
+  flutter: ">=3.35.0"
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)

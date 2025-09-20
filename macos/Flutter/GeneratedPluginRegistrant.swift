@@ -12,7 +12,11 @@ import just_audio
 import package_info_plus
 import path_provider_foundation
 import shared_preferences_foundation
+<<<<<<< HEAD
 import sqflite
+=======
+import sqflite_darwin
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
 import url_launcher_macos
 import video_player_avfoundation
 import wakelock_plus

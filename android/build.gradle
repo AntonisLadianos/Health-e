@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // buildscript {
 //     ext.kotlin_version = '1.7.10'
 //     repositories {
@@ -10,6 +11,19 @@
 //         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 //     }
 // }
+=======
+buildscript {
+    ext.kotlin_version = '2.1.0'
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.6.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+>>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
 
 allprojects {
     repositories {
