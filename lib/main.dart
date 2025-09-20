@@ -1,5 +1,3 @@
-import 'package:app/pages/SplashScreen/splash_screen.dart';
-import 'package:app/model/models.dart';
 import 'package:app/splash/presentation/splash_screen.dart';
 import 'package:app/features/auth/models/models.dart';
 import 'package:flutter/material.dart';
