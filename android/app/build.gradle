@@ -32,49 +32,29 @@ if (flutterVersionName == null) {
 // apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-<<<<<<< HEAD
-=======
     namespace "com.ladia.health_app"
->>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
     compileOptions {
-<<<<<<< HEAD
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
-    }
-
-    kotlinOptions {
-        jvmTarget = '1.8'
-=======
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
     }
 
     kotlinOptions {
         jvmTarget = '17'
->>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
     }
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
-<<<<<<< HEAD
-
-=======
         
->>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.ladia.health_app"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
-<<<<<<< HEAD
         minSdkVersion flutter.minSdkVersion
-=======
-        minSdkVersion flutter.minSdkVersion
->>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
