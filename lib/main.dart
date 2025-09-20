@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 import 'package:app/pages/SplashScreen/splash_screen.dart';
 import 'package:app/model/models.dart';
-=======
 import 'package:app/splash/presentation/splash_screen.dart';
 import 'package:app/features/auth/models/models.dart';
->>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
