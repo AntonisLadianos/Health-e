@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.app">
-=======
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
->>>>>>> ac91f3e (Refactor: feature-based structure and import fixes)
    <application
         android:label="Health-e"
         android:name="${applicationName}"
